@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.josemanuel</groupId>
-  <artifactId>calculadora</artifactId>
+  <artifactId>supercalculadora</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>calculadora</name>
