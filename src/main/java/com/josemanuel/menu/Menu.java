@@ -39,7 +39,8 @@ public class Menu {
         do{
 
             this.renderiza();            
-            ItemMenu itemMenuSelect = this.mapItemMenu.get(sc.next());
+            String next = sc.next();
+            ItemMenu itemMenuSelect = this.mapItemMenu.get(next);
             if (itemMenuSelect != null) {
                 Menu subMenu;
                 if ((subMenu = itemMenuSelect.getSubMenu())!= null) {                

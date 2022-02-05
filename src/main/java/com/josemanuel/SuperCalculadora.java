@@ -31,6 +31,7 @@ public class SuperCalculadora
             superCalculadora.getMenuPrincipal().bucle();
         } catch(ExitMenuException eme) {
             System.out.println("FIN SUPERCALCULADORA");
+            superCalculadora.getSc().close();
         }
 
     }
@@ -66,6 +67,10 @@ public class SuperCalculadora
 
     public Menu getMenuPrincipal() {
         return menuPrincipal;
+    }
+
+    public Scanner getSc() {
+        return sc;
     }
 
 }
