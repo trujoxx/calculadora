@@ -3,6 +3,8 @@ package com.josemanuel.menu;
 import java.util.Scanner;
 import java.util.function.Function;
 
+//Esta función representa un submenu dependiendo del calculo que quiera realizar
+
 public class ItemMenu {
 
     private String mensajeMenu;

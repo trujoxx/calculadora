@@ -12,6 +12,7 @@ import com.josemanuel.menu.ExitMenuException;
 import com.josemanuel.menu.ItemMenu;
 import com.josemanuel.menu.Menu;
 
+//En esta clase indicamos los valores que tiene que calcular
 public class SuperCalculadora 
 {
 

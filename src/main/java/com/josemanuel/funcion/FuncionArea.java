@@ -4,6 +4,9 @@ import java.math.BigDecimal;
 import java.util.Scanner;
 import java.util.function.Function;
 
+
+//Realiza el calculo del area de los poligonos regulares
+
 public class FuncionArea implements Function<Scanner, Void>{
 
     @Override

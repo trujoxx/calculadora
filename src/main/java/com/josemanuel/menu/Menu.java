@@ -4,6 +4,7 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.function.Function;
 
+//Es la función que muestra el menu principal y puedes elegir que calculo quiere hacer
 public class Menu {
 
     private Scanner sc;

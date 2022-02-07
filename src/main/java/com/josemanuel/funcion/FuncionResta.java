@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.util.Scanner;
 import java.util.function.Function;
 
-
+//Obtenemos el resultado de una resta de dos valores
 
 public class FuncionResta implements Function<Scanner, Void>{
 
